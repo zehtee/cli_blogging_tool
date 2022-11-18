@@ -1,0 +1,7 @@
+export MyPath=/home/hendrik/Documents/blogging
+export BinPath=/home/hendrik/Documents/blogging/bin
+export HTMLPath=/home/hendrik/Documents/blogging/html
+export PicPath=/home/hendrik/Documents/blogging/pictures
+export PostPath=/home/hendrik/Documents/blogging/posts
+export TMPPath=/home/hendrik/Documents/blogging/tmp
+export TemplatePath=/home/hendrik/Documents/blogging/template

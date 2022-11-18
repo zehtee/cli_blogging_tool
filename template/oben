@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="de">
+<head>
+ ...
+</head>
+
+<body>
+  <header>
+    <img src="logo.svg" alt="logo">
+    <p>Herzlich willkommen!</p>
+  </header>
+
+ 
